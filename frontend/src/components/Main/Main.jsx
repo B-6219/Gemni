@@ -21,7 +21,7 @@ const Main = () => {
                         <>
 
                             <div className="greet">
-                                <p><span>Hello , Dev.</span></p>
+                                <p><span>Hello , Developer</span></p>
                                 <p>How can i help you today ?</p>
                             </div>
 
@@ -32,7 +32,7 @@ const Main = () => {
                                 </div>
 
                                 <div className="card">
-                                    <p>Briefly summarise : privatisation </p>
+                                    <p>Who is The Weeknd ? </p>
                                     <img src={assets.message_icon} alt="" />
                                 </div>
 
